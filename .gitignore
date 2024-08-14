@@ -1,4 +1,4 @@
-/postgres-data/
-/postgres-data-mazust/
-/venv/
+/postgres-data
+/postgres-data-mazust
+/venv
 *.env
