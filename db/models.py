@@ -89,7 +89,7 @@ class StudentTeacherAssociation(Base):
     teacher_id = Column(Integer, ForeignKey("teachers.id"), primary_key=True)
 
 
-# check chat gpt for latest update :D
+
 class Students(Base):
     __tablename__ = "students"
     id = Column(Integer, primary_key=True)
